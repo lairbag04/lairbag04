@@ -1,16 +1,26 @@
-## Hi there 👋
+# Bem-vindo ao Meu Perfil!
 
-<!--
-**lairbag04/lairbag04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou um entusiasta de tecnologia e desenvolvimento de software, atualmente estudando Análise e Desenvolvimento de Sistemas. Tenho interesse especial em backend e estou explorando linguagens como Python e C#.
 
-Here are some ideas to get you started:
+## 🔧 Tecnologias e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Linguagens: Python, HTML, CSS
+- Ferramentas: Git, GitHub, VS Code
+- Interesse em: Desenvolvimento Web, Banco de Dados, Automação
+
+## 🚀 O Que Você Encontrará Aqui
+
+Neste repositório, compartilho projetos, experimentos e aprendizado contínuo em desenvolvimento de software.
+
+## 📫 Como Me Encontrar
+
+Se quiser trocar ideias ou colaborar em projetos, sinta-se à vontade para entrar em contato!
+
+## 🎯 Objetivos Atuais
+
+- Aprender e praticar C#
+- Aprimorar habilidades em backend
+- Explorar novas tecnologias e frameworks
+
+Obrigado por visitar meu perfil! 🚀
+
