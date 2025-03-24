@@ -1,4 +1,4 @@
-#**👋 Hello, Welcome!**#
+#👋 Hello, Welcome!
 
 ![Black   White Modern Minimalist Data Analyst LinkedIn Banner](https://github.com/user-attachments/assets/73f8a002-1eec-4e21-9901-dd4d57d2283a)
 
