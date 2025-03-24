@@ -1,4 +1,4 @@
-👋 Hello, Welcome!
+**👋 Hello, Welcome!**
 
 ![Black   White Modern Minimalist Data Analyst LinkedIn Banner](https://github.com/user-attachments/assets/73f8a002-1eec-4e21-9901-dd4d57d2283a)
 
@@ -15,15 +15,15 @@ Software Development & Programming 💻
 
 Workflow Optimization & Organization 🏭
 
-🛠️ Technologies & Tools
+**🛠️ Technologies & Tools**
 
 
-📚 Currently Learning
+**📚 Currently Learning**
 📌 ReactJS & Web Development
 📌 Automation & Maintenance Management
 📌 Databases & SQL
 
-📬 Let’s Connect!
+**📬 Let’s Connect!**
 🔗 LinkedIn | 📧 [Your Email]
 
-💡 “Technology only makes sense when applied to simplify processes and transform realities.”
+**💡 “Technology only makes sense when applied to simplify processes and transform realities.”**
