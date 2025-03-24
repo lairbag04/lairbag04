@@ -24,6 +24,6 @@ Workflow Optimization & Organization 🏭
 📌 Databases & SQL
 
 **📬 Let’s Connect!**
-🔗 LinkedIn | 📧 [Your Email]
+🔗 gabfdsouza | 📧 gabrielgomesfdsouza.
 
 **💡 “Technology only makes sense when applied to simplify processes and transform realities.”**
